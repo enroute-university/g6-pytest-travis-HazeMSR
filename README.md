@@ -16,10 +16,9 @@ Once you have cloned the repo, take a moment to familiarize with the content, fi
 
 [![Build Status](https://travis-ci.com/artexmg/travis-rg6-test.svg?)](https://travis-ci.com/artexmg/travis-rg6s-test)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/67e256b3f61911fa85f/maintainability)](https://codeclimate.com/repos/60b9eb2f410a2014c006b9/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/2b298cd450c412a7aaf7/maintainability)](https://codeclimate.com/github/enroute-university/g6-pytest-travis-HazeMSR/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/67e256b3f61911fa85f/test_coverage)](https://codeclimate.com/repos/60b9eb2f461068b9/test_coverage)
-
+[![Test Coverage](https://api.codeclimate.com/v1/badges/2b298cd450c412a7aaf7/test_coverage)](https://codeclimate.com/github/enroute-university/g6-pytest-travis-HazeMSR/test_coverage)
 ----------------
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
